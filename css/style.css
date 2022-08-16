@@ -1,0 +1,58 @@
+nav.navgroup ul li{
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px
+}
+nav.footer ul li{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header h3, footer h5{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav.navgroup ul{
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding-top: 25px;
+}
+
+h5#goback{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+section#projects{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 25px 20px;
+    margin-top: 2em;
+}
+
+section#projects h4{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+article p{
+    font-size: 1.5em;
+}
+footer{
+    border-top: solid gray ;
+}
+header{
+    margin-bottom: 2em;
+}
+
+section.contact h3{
+    text-transform: uppercase;
+}
+
+section.contact p span{
+    font-weight: bolder;
+}
